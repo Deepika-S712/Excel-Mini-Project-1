@@ -91,5 +91,6 @@ Designed layout professionally with equal spacing
 
 Applied data validation and cell formatting for clarity
 
-Used alignment, bolding, and labels for readability
+Used alignment, bolding, and labels for readability.
+
 
